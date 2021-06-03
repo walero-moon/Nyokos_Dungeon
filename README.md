@@ -71,4 +71,4 @@ The library referenced throughout this project is the "text_utils.py" file. It h
 
 ## Licensing
 This code is licensed under the **GNU General Public License v3.0**. You may modify and distribute this code but it must be kept under the same license.
-For more information check the **LICENSE** file.
+For more information check the **![LICENSE](LICENSE)** file.
