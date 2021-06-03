@@ -1,0 +1,4 @@
+wolf:12
+wolf:12
+giant:7
+skeleton:12

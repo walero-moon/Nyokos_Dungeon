@@ -1,0 +1,5 @@
+magician:1
+wolf:10
+giant:10
+wolf:7
+skeleton:10
