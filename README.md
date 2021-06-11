@@ -2,7 +2,7 @@ This is a text based game made on Python. Originally a school project, but I end
 
 Please note that this was done in the early stages of my programming journey. The code is messy and needlessly long. I am currently working on shortening it and including modern programming practices. While I will not work on updating the game anymore, I will continue to improve the "library" made for ASCII art.
 
-If you do not wish to play or know about the game, and only wish to look at the dynamic ASCII aspects, please head to the ![library section](what-the-tiny-"library"-currently-has)
+If you do not wish to play or know about the game, and only wish to look at the dynamic ASCII aspects, please head to the **What the tiny "library" currently has** section.
 
 # Nyoko's Dungeon
 ![Nyoko's title screen](https://i.imgur.com/PnbVu68.png)
