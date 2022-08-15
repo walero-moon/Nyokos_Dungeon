@@ -1,6 +1,6 @@
 This is a text based game made on Python. Originally a school project, but I ended up writing a tiny library (1 file) that deals with dynamic creation of text in the middle of ASCII characters and deals with strings, and that is the main purpose I am sharing this project. 
 
-Please note that this was done in the early stages of my programming journey. The code is messy and needlessly long. I am currently working on shortening it and including modern programming practices. While I will not work on updating the game anymore, I will continue to improve the "library" made for ASCII art.
+Please note that this was done in the early stages of my programming journey. The code is messy and needlessly long.
 
 If you do not wish to play or know about the game, and only wish to look at the dynamic ASCII aspects, please head to the **What the tiny "library" currently has** section.
 
